@@ -1,9 +1,10 @@
 /*
-https://github.com/goodman3/gm3s_svencoop_scripts
+
 
 Wall climber Zombie
-Author  :Goodman3
+Author  :Goodman3 (https://github.com/goodman3/gm3s_svencoop_scripts)
 Contact :272992860@qq.com
+Special Thanks: DrAbc (https://github.com/DrAbcrealone/Abc-AngelScripts-For-Svencoop)
 ===================================
 
 A modified zombie that climbs walls to reach it's enemy.
